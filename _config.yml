@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Harshith M R"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "AI Research"
   location         : "Chennai, India"
   employer         : "Indian Institute of Technology, Madras"
