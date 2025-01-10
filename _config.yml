@@ -21,10 +21,10 @@ repository               : "roovy54/roovy54.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.jpg"
+  avatar           : "profilepic2.jpg"
   name             : "Harshith M R"
   pronouns         : # example: "she/her"  
-  bio              : "AI Research"
+  bio              : "Generative AI and RL"
   location         : "Chennai, India"
   employer         : "IIT Madras"
   uri              : # URL
